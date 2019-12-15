@@ -1,0 +1,5 @@
+dwt_stm32_delay.h:25:22:DWT_Delay_us	24	static
+hx711.c:3:6:HX711_Init	24	static
+hx711.c:24:5:HX711_Average_Value	24	static
+hx711.c:35:5:HX711_Value	24	static
+hx711.c:77:7:HX711_Tare	40	static
